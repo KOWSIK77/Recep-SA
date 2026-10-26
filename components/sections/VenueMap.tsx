@@ -93,7 +93,7 @@ export function VenueMap() {
             <p className="font-semibold text-primary">{siteConfig.venue.addressLine}</p>
             <p>{siteConfig.venue.cityStateZip}</p>
             <p className="text-[11px] text-accent-dark font-medium pt-0.5">
-              Landmark: Near Dharapuram Bus Stand / Pollachi Road
+              Landmark: Rotary club / Udumalai Road
             </p>
           </div>
 
