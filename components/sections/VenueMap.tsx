@@ -90,7 +90,7 @@ export function VenueMap() {
           </h3>
 
           <div className="space-y-1 text-ink/80 text-xs sm:text-sm font-sans leading-relaxed mb-5">
-            <p className="font-semibold text-primary">{siteConfig.venue.addressLine}</p>
+            <p className="font-semibold text-primary">Udumali Road, Dharapuram</p>
             <p>{siteConfig.venue.cityStateZip}</p>
             <p className="text-[11px] text-accent-dark font-medium pt-0.5">
               Landmark: Rotary club / Udumalai Road
