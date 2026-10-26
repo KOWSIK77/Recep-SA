@@ -1,0 +1,59 @@
+SITE REFERENCE
+Use for look, feel, layout, motion and ornament style only.
+Do not copy their code, text or imagery. Do not add any section that is not in the master prompt.
+
+
+REFERENCE LINKS
+
+https://www.craftyartapp.com/wedding-website-design-with-a-south-indian-wedding-theme-25
+
+https://www.craftyartapp.com/wedding-invitation-website-with-romantic-sunset-themes-17
+
+https://www.missingpieceinvites.com/demos/meenaya
+
+https://www.craftyartapp.com/royal-indian-wedding-website-for-your-beautiful-love-story-3
+
+https://www.craftyartapp.com/traditional-wedding-website-for-digital-wedding-invitation-4
+
+https://lantern-madurai.invitestory.in/
+
+
+STYLE BRIEF
+
+Premium South Indian / Hindu wedding invitation website.
+
+HERO
+- Full-viewport South Indian temple SVG: tiered gopuram, kalasha finials, flagpoles, arched entrance, oil lamps (deepam).
+- Starry night sky gradient from deep black to terracotta gold.
+- Couple names in Cinzel Decorative.
+- Parallax text: the names fade and move on scroll.
+
+FLOATING ELEMENTS
+- Scroll-triggered deepam lamps (SVG oil lamps) that descend as the user scrolls.
+- Each lamp sways and flickers using keyframe animations.
+
+SECTION STYLE NOTES
+1. HERO: temple SVG, stars, parallax names.
+2. BLESSING: an English blessing verse, grandparents' and parents' names, large couple names.
+3. COUPLE: ornate corner-frame photo placeholders, individual bios with a quote.
+4. DETAILS: grid cards in an ornate style.
+5. COUNTDOWN: live countdown over a starry background.
+6. FOOTER: names, date, social links.
+
+EFFECTS
+- Scroll progress bar
+- Scroll-triggered reveals
+- Parallax temple SVG
+- Clip-path cards
+- Music toggle
+- Live countdown
+
+COLOURS
+- Deep red #3D0000
+- Vermilion #C0392B
+- Gold #C9942A
+- Ivory #FDF6E3
+- Cream #FAF0DC
+
+FONTS (Google Fonts)
+- Cinzel Decorative, Cinzel, Philosopher, Lora
