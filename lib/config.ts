@@ -76,9 +76,9 @@ export const siteConfig: SiteConfig = {
   },
   venue: {
     name: 'Sree Velavar Mandapam',
-    addressLine: 'Pollachi Main Road, Dharapuram',
+    addressLine: 'Udumalai Main Road, Dharapuram',
     cityStateZip: 'Tiruppur District, Tamil Nadu 638656',
-    fullAddress: 'Sree Velavar Mandapam, Pollachi Main Road, Dharapuram, Tamil Nadu 638656',
+    fullAddress: 'Sree Velavar Mandapam, Udumalai Main Road, Dharapuram, Tamil Nadu 638656',
     googleMapsUrl: 'https://maps.app.goo.gl/qnZ19PVvL13PUDCz6',
     embedUrl: 'https://www.google.com/maps?q=Sree+Velavar+Mandapam+Dharapuram&output=embed',
   },
